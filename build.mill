@@ -1,4 +1,4 @@
-//| mill-version: 1.0.4
+//| mill-version: 1.0.5
 //| mill-jvm-opts: -Dchisel.project.root=${PWD}
 // import Mill dependency
 import mill._
